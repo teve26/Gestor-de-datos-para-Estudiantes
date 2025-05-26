@@ -1,5 +1,9 @@
 # Gestor-de-datos-para-Estudiantes
-esta es una herramienta diseñada para que los docentes puedan registrar, consultar y actualizar información sobre sus estudiantes de manera sencilla y eficiente. Este programa facilita la organización de datos permitiendo llevar un control claro y ordenado de su grupo, asegurando que la información siempre esté guardada y disponible.
+Esta es una herramienta realizada por:<br>
+Jack Bruce Lopez Lopez
+Jorge Daniel Escobar Fuentes
+
+Diseñada para que los docentes puedan registrar, consultar y actualizar información sobre sus estudiantes de manera sencilla y eficiente. Este programa facilita la organización de datos permitiendo llevar un control claro y ordenado de su grupo, asegurando que la información siempre esté guardada y disponible.
 <h2>📚 Gestor de Estudiantes en C++</h2>
 
 Este proyecto es una aplicación de consola desarrollada en C++ que permite gestionar un listado de estudiantes, sus nombres, ID y promedios. Los datos se almacenan en un archivo de texto (estudiantes.txt) para mantener la persistencia entre ejecuciones.
