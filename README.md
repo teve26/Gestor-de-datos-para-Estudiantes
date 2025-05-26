@@ -34,6 +34,25 @@ ejemplo:<br>
 proyectoFinal.cpp
 Contiene todo el código fuente del proyecto.<br>
 
+<h2>Librerías utilizadas</h2>
+
+El programa utiliza las siguientes librerías estándar de C++:
+
+- **`<iostream>`**  
+  Para entrada y salida por consola (`cin`, `cout`).
+
+- **`<fstream>`**  
+  Para manejo de archivos (`ifstream`, `ofstream`).
+
+- **`<string>`**  
+  Para manejar cadenas de texto.
+
+- **`<vector>`**  
+  Para almacenar dinámicamente la lista de estudiantes.
+
+- **`<algorithm>`**  
+  Para ordenar el vector de estudiantes.
+
 <h2>📌 Uso del programa</h2>
 
 Al ejecutar el programa, se mostrará un menú interactivo como el siguiente:<br>
