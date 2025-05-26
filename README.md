@@ -71,25 +71,25 @@ Endonde se puede seleccionar mediante el nuemero de la opcion deseada la funcion
 
 <h2>📝 Funciones Principales</h2>
 
-mostrarMenu() 	Muestra las opciones del menú principal.<br>
+- **`mostrarMenu()`**  	Muestra las opciones del menú principal.<br>
 
-agregarEstudiante()	Solicita los datos de un nuevo estudiante y lo guarda.<br>
+- **`agregarEstudiante()`**	Solicita los datos de un nuevo estudiante y lo guarda.<br>
 
-mostrarTodos()	Imprime en pantalla todos los estudiantes registrados.<br>
+- **`mostrarTodos()`**	Imprime en pantalla todos los estudiantes registrados.<br>
 
-buscarPorID()	Busca e imprime los datos de un estudiante por su ID.<br>
+- **`buscarPorID()`**	Busca e imprime los datos de un estudiante por su ID.<br>
 
-modificarEstudiante()	Permite editar el nombre y promedio de un estudiante.<br>
+- **`modificarEstudiante()`**	Permite editar el nombre y promedio de un estudiante.<br>
 
-eliminarEstudiante()	Elimina un estudiante del vector por su ID.<br>
+- **`eliminarEstudiante()`**	Elimina un estudiante del vector por su ID.<br>
 
-ordenarPorPromedio()	Ordena los estudiantes de mayor a menor promedio.<br>
+- **`ordenarPorPromedio()`**	Ordena los estudiantes de mayor a menor promedio.<br>
 
-calcularPromedioGeneral()	Calcula y muestra el promedio general de todos los estudiantes.<br>
+- **`calcularPromedioGeneral()`**	Calcula y muestra el promedio general de todos los estudiantes.<br>
 
-guardarEnArchivo()	Guarda los datos actuales en estudiantes.txt.<br>
+- **`guardarEnArchivo()`**	Guarda los datos actuales en estudiantes.txt.<br>
 
-cargarDesdeArchivo()	Carga los datos desde el archivo al iniciar el programa.<br>
+- **`cargarDesdeArchivo()`**	Carga los datos desde el archivo al iniciar el programa.<br>
 
 <h2>🛡️Validación de Entradas</h2>
 para la validacion de la entrada de datos se utilizo la función limpiarBuffer() en conjunto con la validacion para cada entrada de ID, Nombre, Promedio.<br>
