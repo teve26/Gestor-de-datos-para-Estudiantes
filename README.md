@@ -21,6 +21,21 @@ Este proyecto es una aplicación de consola desarrollada en C++ que permite gest
 7.Calcular el promedio general de todos los estudiantes registrados.<br>
 
 Cargar y guardar automáticamente los datos en el archivo estudiantes.txt.<br>
+<h2>📌 Uso del programa</h2>
+
+Al ejecutar el programa, se mostrará un menú interactivo como el siguiente:<br>
+
+GESTOR DE ESTUDIANTES<br>
+1. Agregar estudiante<br>
+2. Mostrar todos<br>
+3. Buscar por ID<br>
+4. Modificar estudiante<br>
+5. Eliminar estudiante<br>
+6. Ordenar por promedio<br>
+7. Calcular promedio general<br>
+0. Salir<br>
+
+Endonde se puede seleccionar mediante el nuemero de la opcion deseada la funcion que se quiere realizar<br>
 
 <h2>📁 Estructura del Proyecto</h2>
 <h4>estudiantes.txt</h4><br>
@@ -52,22 +67,6 @@ El programa utiliza las siguientes librerías estándar de C++:
 
 - **`<algorithm>`**  
   Para ordenar el vector de estudiantes.
-
-<h2>📌 Uso del programa</h2>
-
-Al ejecutar el programa, se mostrará un menú interactivo como el siguiente:<br>
-
-GESTOR DE ESTUDIANTES<br>
-1. Agregar estudiante<br>
-2. Mostrar todos<br>
-3. Buscar por ID<br>
-4. Modificar estudiante<br>
-5. Eliminar estudiante<br>
-6. Ordenar por promedio<br>
-7. Calcular promedio general<br>
-0. Salir<br>
-
-Endonde se puede seleccionar mediante el nuemero de la opcion deseada la funcion que se quiere realizar<br>
 
 <h2>📝 Funciones Principales</h2>
 
