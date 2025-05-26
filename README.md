@@ -23,7 +23,7 @@ Este proyecto es una aplicación de consola desarrollada en C++ que permite gest
 Cargar y guardar automáticamente los datos en el archivo estudiantes.txt.<br>
 
 <h2>📁 Estructura del Proyecto</h2>
-- **`estudiantes.txt`**<br>
+`estudiantes.txt`<br>
 Archivo de texto donde se guarda la información de los estudiantes en el siguiente formato:<br>
 
 ID,Nombre,Promedio<br>
