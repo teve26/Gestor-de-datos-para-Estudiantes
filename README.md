@@ -65,6 +65,6 @@ guardarEnArchivo()	Guarda los datos actuales en estudiantes.txt.<br>
 
 cargarDesdeArchivo()	Carga los datos desde el archivo al iniciar el programa.<br>
 
-<h2>Validación de Entradas</h2>
+<h2>🛡️Validación de Entradas</h2>
 para la validacion de la entrada de datos se utilizo la función limpiarBuffer() en conjunto con la validacion para cada entrada de ID, Nmbre, Promedio.<br>
 Para evitar errores al ingresar datos, especialmente si el usuario introduce letras donde se esperan números o deja campos vacíos.
