@@ -1,10 +1,10 @@
 # Gestor-de-datos-para-Estudiantes
 Esta es una herramienta realizada por:<br>
 
-<h2>Jack Bruce Lopez Lopez</h2>
-<h2>José David Gómez López</h2>
-<h2>Marlon Iván Fuentes Velásquez</h2>
-<h2>Jorge Daniel Escobar Fuentes</h2>
+<h3>Jack Bruce Lopez Lopez</h3>
+<h3>José David Gómez López</h3>
+<h3>Marlon Iván Fuentes Velásquez</h3>
+<h3>Jorge Daniel Escobar Fuentes</h3>
 
 Diseñada para que los docentes puedan registrar, consultar y actualizar información sobre sus estudiantes de manera sencilla y eficiente. Este programa facilita la organización de datos permitiendo llevar un control claro y ordenado de su grupo, asegurando que la información siempre esté guardada y disponible.
 <h2>📚 Gestor de Estudiantes en C++</h2>
